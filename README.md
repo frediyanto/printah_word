@@ -1,1 +1,0 @@
-# printah_word
